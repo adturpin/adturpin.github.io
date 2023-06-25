@@ -1,0 +1,250 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Adrien Turpin",
+    "label": "Développeur Freelance",
+    "image": "",
+    "email": "turpin.adrien@laposte.net",
+    "phone": "0675131383",
+    "url": "",
+    "summary": "Pour moi, le développement c'est comme les Legos.\nOn commence par créer des petits blocs qui mis ensemble forment un château.",
+    "location": {
+      "countryCode": "FR",
+      "address": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "adrien-turpin-04a32997",
+        "url": "https://www.linkedin.com/in/adrien-turpin-04a32997/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Adrien Turpin",
+      "position": "Software Development Engineer",
+      "startDate": "2022-01-31",
+      "endDate": "",
+      "highlights": [],
+      "url": "",
+      "location": "Lyon, Auvergne-Rhône-Alpes, France"
+    },
+    {
+      "name": "Agixis",
+      "position": "Lead Dev / Tech Lead / Architecte logiciels",
+      "startDate": "2021-02-28",
+      "endDate": "2021-12-31",
+      "highlights": [],
+      "summary": "Mission: proposer une solution saas pour la gestion complète des salons de coiffures, de la caisse au backoffice en passant par les rendez vous etc.. \n\nCoaching : Orientation métier, xProgramming, Conduite du changement, Atelier technique, Clean code, Design pattern, SOLID, théorme du CAP  etc...\nOps : gestion des environnements (test + prod), intervention ,commité de pilotage etc..  \nIndustrialisation : CI/CD, automatisation, monitoring, migration etc..\nArchitecture :  Clean, Hexagonal, Microservice, \nDev : C# Net Core, docker + heml/kubernetes, Nats, Mongodb (replicat set), ElasticSearch, SqlServer",
+      "url": "https://www.linkedin.com/company/agixis-allconnected/",
+      "location": "Lyon, Auvergne-Rhône-Alpes, France"
+    },
+    {
+      "name": "ITinSell",
+      "position": "Lead Software Engineer",
+      "startDate": "2019-08-31",
+      "endDate": "2021-02-28",
+      "highlights": [],
+      "summary": "Mission: TMA sur une solution de tracking de colis et stats\n\nCoaching : xProgramming, Conduite du changement, Atelier technique, Clean code, Design pattern, SOLID, architecture clean/hexagonal.\nIndustrialisation : CI/CD, Migration technologique, automatisation, monitoring.\nArchitecture : Analyse, proposition + POC",
+      "url": "https://www.linkedin.com/company/itinsell-software/",
+      "location": "Lyon, Auvergne-Rhône-Alpes, France"
+    },
+    {
+      "name": "KAIZEN Solutions (KZS)",
+      "position": "Ingénieur développement logiciels",
+      "startDate": "2019-02-28",
+      "endDate": "2019-08-31",
+      "highlights": [],
+      "summary": "Mission : mise en place de la partie IoT pour une solution de fleet management d'engin de chantier\n\nMicro-Service\nNodeJS + TypeScript\nNoSQL\nLinux \nCloud\nkubernetes+ Docker + CI/CD",
+      "url": "https://www.linkedin.com/company/kzs/",
+      "location": "Région de Lyon, France"
+    },
+    {
+      "name": "Elutions",
+      "position": "Ingénieur développement logiciels",
+      "startDate": "2016-08-31",
+      "endDate": "2019-02-28",
+      "highlights": [],
+      "summary": "Mission : TMA et mise en place d'une platforme d'une solution type SCADA\n\nDev: C, C++ ,CLI, C#, ASP.NET, java, Supervision & BI",
+      "url": "https://www.linkedin.com/company/elutions/",
+      "location": "saint priest"
+    },
+    {
+      "name": "DISTRI MOBILE SYSTEMS",
+      "position": "Développeur logiciels",
+      "startDate": "2014-10-31",
+      "endDate": "2016-10-31",
+      "highlights": [],
+      "summary": "Mission : TMA d'un système fleet management spécialisé dans les produits et matière dangereuse .\n\nC#. Net, ASP.Net + Razor, MySQL, PHP, MVC 4, SVN, Redmine.",
+      "url": "https://www.linkedin.com/company/distri-mobile-systems/",
+      "location": "Région de Lyon, France"
+    },
+    {
+      "name": "ISAGRI",
+      "position": "Developpeur qualité service outils",
+      "startDate": "2014-01-31",
+      "endDate": "2014-09-30",
+      "highlights": [],
+      "summary": "Mission : \n- validation des releases journaliére\n- développement d'outil pour les autres progiciels\n- développement de test automatisé \n\nDev: C#.Net, SQL Server, integration continue. \nTest auto : JavaScript, Test unitaire, TFS, script batch automatisé",
+      "url": "https://www.linkedin.com/company/isagri/",
+      "location": "Beauvais"
+    },
+    {
+      "name": "Freemens",
+      "position": "[Stage] Ingénieur embarqué",
+      "startDate": "2012-01-31",
+      "endDate": "2012-07-31",
+      "highlights": [],
+      "summary": "Développement d'un carte  additionnelle de communication CAN Bus.\nH/S, C et C#",
+      "url": ""
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Antykhimera",
+      "position": "Président & Vice-Président",
+      "startDate": "2015-04-30",
+      "endDate": "2017-12-31",
+      "summary": "j'anticipe les besoins des membres et organise le future de l'association  ",
+      "highlights": [],
+      "url": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "AFIP FORMATIONS",
+      "area": "Informatique",
+      "studyType": "Master EIIA option développement",
+      "startDate": "2015-12-31",
+      "endDate": "2016-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "IUT1 Grenoble",
+      "area": "système embarqué",
+      "studyType": "Licence Professionnelle AIIS spécialité : système embarqué",
+      "startDate": "2011-12-31",
+      "endDate": "2012-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Jules Algoud - Valence",
+      "area": "Electronique",
+      "studyType": "BTS Systeme Electronique",
+      "startDate": "2009-12-31",
+      "endDate": "2011-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Lycée Saint Louis Crest",
+      "area": "Ingénierie électrique, électronique et des communications",
+      "studyType": "BAC Professionnel ELEEC",
+      "startDate": "2007-12-31",
+      "endDate": "2009-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Lycée Saint Louis Crest",
+      "area": "Eletrotechnique",
+      "studyType": "BEP Eletrotechnique",
+      "startDate": "2005-12-31",
+      "endDate": "2007-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "NIDays - coup de robotique",
+      "date": "2012-02-28",
+      "awarder": "National Instrument",
+      "summary": ""
+    },
+    {
+      "title": "Coup de France de robotique 28 /133",
+      "date": "2011-05-31",
+      "awarder": "planete-sciences",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "LFS258: Kubernetes Fundamentals",
+      "issuer": "The Linux Foundation",
+      "startDate": "2022-10-31",
+      "url": "https://www.credly.com/badges/71f018ae-776f-4014-bc7f-f455501be0ca/linked_in_profile"
+    },
+    {
+      "name": "LFD259: Kubernetes for Developers",
+      "issuer": "The Linux Foundation",
+      "startDate": "2022-04-30",
+      "url": "https://www.credly.com/badges/a06373ab-f90d-4bc6-94ff-7b9cc5a55c44?source=linked_in_profile"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "C (langage de programmation)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Méthodes agiles",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "TypeScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Développement de logiciels",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C#",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scrum",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Programmation orientée objet (POO)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "fr",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
